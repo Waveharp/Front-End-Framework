@@ -5,7 +5,7 @@
 
 This framework is using:
 - [PostCSS](https://github.com/postcss/postcss)
-- Lost
-- Rucksack
-- Autoprefixer
-- Browser-Sync
+- [Lost](https://github.com/peterramsing/lost)
+- [Rucksack](https://simplaio.github.io/rucksack/)
+- [Autoprefixer(through Rucksack)](http://simplaio.github.io/rucksack/docs/#autoprefixing)
+- [Browser-Sync](https://www.browsersync.io/)
